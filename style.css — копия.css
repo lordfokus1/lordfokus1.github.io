@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+@import url('https://fonts.googleapis.com/css?family=Monoton|Pontano+Sans');
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One');
+
+
+body{
+    margin-top:5px;
+    background-color:black;
+    height: 5000px;
+}
+
+
+
+
+.zagolovok{
+    width: 1510px;
+    height: 150px;
+    background-color:#696969;
+    box-shadow:4px 3px 20px 6px white;
+    border-radius: 13px;
+    font-size:50px;
+    padding-left:530px;
+    box-sizing: border-box; 
+   font-family: 'Fredoka One', cursive;
+    padding-top:10px;
+    color:white;
+    margin-top:30px;
+    transition:background-color 3s , box-shadow 3s,color 3s;
+    
+   
+    
+    
+}
+
+
+.hr1{
+    margin-top:30px;
+    height:8px;
+    width: 1000px;
+    box-shadow:2px 3px 20px 2px white;
+    transition:box-shadow 0.5s;
+}
+.hr2{
+    margin-top:40px;
+    height:8px;
+    width: 600px;
+    box-shadow:2px 3px 20px 2px white; 
+        transition:box-shadow 0.5s;
+}
+.hr3{
+    margin-top:50px;
+    height:8px;
+    width: 400px;
+    box-shadow:2px 3px 20px 2px white;
+        transition:box-shadow 0.5s;
+    
+}
+
+
+.dis{
+    display: flex;
+
+
+}
+
+
+.green{
+    width: 200px;
+    height: 200px;
+    box-shadow:0px 7px 20px 3px white; 
+    margin-left:330px;
+    margin-top:70px;
+    transition: width 1.5s height 1.5s;
+}
+
+
+.green img{
+    width: 100%;
+    height: 100%;
+    transition:width 1.5s, height 1.5s,box-shadow 0.5s;
+}
+
+
+.p1{
+    font-size:30px;
+    text-align: center;
+    font-family: 'Pontano Sans', sans-serif;
+    color:azure;
+     text-shadow:2px 3px 50px white;
+
+}
+
+
+.linkin{
+    width: 200px;
+    height: 200px;
+    margin-top:70px;
+      margin-left:100px;
+        box-shadow:0px 7px 20px 3px white; 
+    
+
+    
+}
+
+.linkin img {
+    width: 100%;
+    height: 100%;
+    transition:width 1.5s, height 1.5s,box-shadow 0.5s;
+}
+
+
+
+
+
+
+
+
+.beli{
+    width: 200px;
+    height: 200px;
+    margin-top:70px;
+      margin-left:100px;
+        box-shadow:0px 7px 20px 3px white;
+}
+.beli img{
+    width: 100%;
+    height: 100%;
+    transition:width 2s, height 2s,box-shadow 0.5s;
+
+}
+
+img:hover {
+    width: 220px;
+    height: 220px;
+    box-shadow:-0px 7px 20px 3px white;
+    box-shadow:0px  -7px 20px 3px #00BFFF
+
+}
+
+
+
+
+
+.p2{
+    font-size:32px;
+    text-align: center;
+    font-family: 'Pontano Sans', sans-serif;
+    margin-top:150px;
+    text-shadow:2px 3px 50px white;
+    color:azure;
+    
+}
+
+
+.zagolovok:hover {
+     width: 1510px;
+    height: 150px;
+    background-color:silver;
+    box-shadow:4px 3px 20px 6px #00BFFF;
+    border-radius: 13px;
+    font-size:50px;
+    padding-left:530px;
+    box-sizing: border-box; 
+   font-family: 'Fredoka One', cursive;
+    padding-top:10px;
+    color:#696969;
+    margin-top:30px;
+
+    
+   
+    
+}
+
+
+.hr1:hover {
+    margin-top:30px;
+    height:8px;
+    width: 1000px;
+    box-shadow:5px 2px 5px 2px #00BFFF;
+}
+.hr2:hover {
+    margin-top:40px;
+    height:8px;
+    width: 600px;
+    box-shadow:5px 2px 5px 2px #00BFFF;
+}
+
+.hr3:hover {
+     margin-top:50px;
+    height:8px;
+    width: 400px;
+    box-shadow:5px 2px 5px 2px #00BFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
